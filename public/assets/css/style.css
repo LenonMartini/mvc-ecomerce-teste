@@ -1,0 +1,12 @@
+.nav{
+    background-color: #eee !important;
+    height: 90px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.nav .logo-content .logo-img{
+    width: 25vh !important;
+}
